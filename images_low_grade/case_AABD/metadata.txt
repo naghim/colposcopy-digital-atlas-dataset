@@ -1,0 +1,14 @@
+Case Number: 3
+Case ID: AABD
+Age: 41
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; low-grade squamous intraepithelial lesion (LSIL).
+Histopathology Diagnosis: LSIL-CIN1.
+Management: Punch biopsy from the lesion (both the anterior lip and the posterior lip).
+Swede Score: 6
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABD&FinalDiag=06
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AABD0a.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AABD1a.jpg
+  3. After Lugols iodine: https://screening.iarc.fr/pic/AABD2.jpg

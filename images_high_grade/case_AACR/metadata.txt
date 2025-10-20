@@ -1,0 +1,16 @@
+Case Number: 26
+Case ID: AACR
+Age: 49
+HPV Status: Positive
+Provisional Diagnosis: Type 2 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN3.
+Management: LLETZ (type 2 excision).
+Swede Score: 8
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AACR&FinalDiag=31
+
+Images:
+  1. Speculum examination: https://screening.iarc.fr/pic/AACR0.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AACR2a.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AACR3a.jpg
+  4. After acetic acid: https://screening.iarc.fr/pic/AACR5a.jpg
+  5. After Lugols iodine: https://screening.iarc.fr/pic/AACR7a.jpg

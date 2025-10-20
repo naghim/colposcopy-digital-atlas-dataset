@@ -1,0 +1,20 @@
+Case Number: 41
+Case ID: AAHU
+Age: 48
+HPV Status: Positive
+Provisional Diagnosis: Type 3 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN3.
+Management: LLETZ (type 2 excision).
+Swede Score: 10
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AAHU&FinalDiag=31
+
+Images:
+  1. Speculum examination: https://screening.iarc.fr/pic/AAHU0.jpg
+  2. After normal saline with green filter: https://screening.iarc.fr/pic/AAHU1a.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AAHU3a.jpg
+  4. After acetic acid: https://screening.iarc.fr/pic/AAHU4a.jpg
+  5. After acetic acid with green filter: https://screening.iarc.fr/pic/AAHU5a.jpg
+  6. After acetic acid: https://screening.iarc.fr/pic/AAHU6a.jpg
+  7. After acetic acid with endocervical speculum: https://screening.iarc.fr/pic/AAHU7a.jpg
+  8. After acetic acid with endocervical speculum: https://screening.iarc.fr/pic/AAHU8a.jpg
+  9. After Lugols iodine: https://screening.iarc.fr/pic/AAHU9a.jpg

@@ -1,0 +1,14 @@
+Case Number: 15
+Case ID: AABK
+Age: 41
+HPV Status: Positive
+Provisional Diagnosis: Type 2 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN2.
+Management: LLETZ (type 2 excision).
+Swede Score: 8
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABK&FinalDiag=31
+
+Images:
+  1. After acetic acid: https://screening.iarc.fr/pic/AABK0a.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AABK1.jpg
+  3. After Lugols iodine: https://screening.iarc.fr/pic/AABK4a.jpg

@@ -1,0 +1,15 @@
+Case Number: 7
+Case ID: AAIW
+Age: 41
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; low-grade squamous intraepithelial lesion (LSIL).
+Histopathology Diagnosis: LSIL-CIN1.
+Management: Punch biopsy from 6 oclock position.
+Swede Score: 5
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AAIW&FinalDiag=06
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AAIW0.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AAIW1a.jpg
+  3. After acetic acid with green filter: https://screening.iarc.fr/pic/AAIW2.jpg
+  4. After Lugols iodine: https://screening.iarc.fr/pic/AAIW3a.jpg

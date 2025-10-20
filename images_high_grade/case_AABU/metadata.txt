@@ -1,0 +1,16 @@
+Case Number: 10
+Case ID: AABU
+Age: 41
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone with high-grade squamous intraepithelial lesion (HSIL) and congenital transformation zone.
+Histopathology Diagnosis: HSIL-CIN3; LSIL-CIN1 in the anterior lip.
+Management: LLETZ (type 1 excision).
+Swede Score: Not possible (Iodine uptake missing)
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABU&FinalDiag=31
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AABU0.jpg
+  2. After normal saline with green filter: https://screening.iarc.fr/pic/AABU1a.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AABU2a.jpg
+  4. After acetic acid with green filter: https://screening.iarc.fr/pic/AABU4a.jpg
+  5. After acetic acid: https://screening.iarc.fr/pic/AABU6.jpg

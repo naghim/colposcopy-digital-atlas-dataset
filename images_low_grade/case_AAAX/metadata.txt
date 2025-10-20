@@ -1,0 +1,17 @@
+Case Number: 9
+Case ID: AAAX
+Age: 39
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; low-grade squamous intraepithelial lesion (LSIL).
+Histopathology Diagnosis: LSIL-CIN1.
+Management: Punch biopsy.
+Swede Score: 4
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AAAX&FinalDiag=06
+
+Images:
+  1. Speculum examination: https://screening.iarc.fr/pic/AAAX0.jpg
+  2. After normal saline: https://screening.iarc.fr/pic/AAAX2a.jpg
+  3. After normal saline with green filter: https://screening.iarc.fr/pic/AAAX1a.jpg
+  4. After acetic acid: https://screening.iarc.fr/pic/AAAX4a.jpg
+  5. After acetic acid with higher magnification: https://screening.iarc.fr/pic/AAAX5a.jpg
+  6. After Lugols iodine: https://screening.iarc.fr/pic/AAAX6.jpg

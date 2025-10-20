@@ -1,0 +1,17 @@
+Case Number: 20
+Case ID: AAJJ
+Age: 43
+HPV Status: Positive
+Provisional Diagnosis: Type 2 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN3.
+Management: LLETZ (type 2 excision).
+Swede Score: 9
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AAJJ&FinalDiag=31
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AAJJ0.jpg
+  2. After normal saline with green filter: https://screening.iarc.fr/pic/AAJJ1a.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AAJJ2a.jpg
+  4. After acetic acid: https://screening.iarc.fr/pic/AAJJ4a.jpg
+  5. Examination of endocervical canal: https://screening.iarc.fr/pic/AAJJ5.jpg
+  6. After Lugols iodine: https://screening.iarc.fr/pic/AAJJ6a.jpg

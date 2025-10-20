@@ -1,0 +1,19 @@
+Case Number: 23
+Case ID: AABS
+Age: 46
+HPV Status: Positive
+Provisional Diagnosis: Type 2 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN3.
+Management: LLETZ (type 2 excision).
+Swede Score: 10
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABS&FinalDiag=31
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AABS00.jpg
+  2. After normal saline with green filter: https://screening.iarc.fr/pic/AABS01.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AABS06a.jpg
+  4. After acetic acid with higher magnification: https://screening.iarc.fr/pic/AABS05a.jpg
+  5. After acetic acid with higher magnification: https://screening.iarc.fr/pic/AABS04a.jpg
+  6. Visualization of the SCJ: https://screening.iarc.fr/pic/AABS07a.jpg
+  7. After Lugols iodine: https://screening.iarc.fr/pic/AABS09a.jpg
+  8. After Lugols iodine: https://screening.iarc.fr/pic/AABS10a.jpg

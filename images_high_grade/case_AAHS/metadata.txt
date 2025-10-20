@@ -1,0 +1,16 @@
+Case Number: 19
+Case ID: AAHS
+Age: 50
+HPV Status: Positive
+Provisional Diagnosis: Type 2 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN3.
+Management: LLETZ (type 2 excision).
+Swede Score: 9
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AAHS&FinalDiag=31
+
+Images:
+  1. Speculum examination: https://screening.iarc.fr/pic/AAHS0.jpg
+  2. After normal saline with green filter: https://screening.iarc.fr/pic/AAHS1a.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AAHS2a.jpg
+  4. After acetic acid with green filter: https://screening.iarc.fr/pic/AAHS3a.jpg
+  5. After Lugols iodine: https://screening.iarc.fr/pic/AAHS4a.jpg

@@ -1,0 +1,15 @@
+Case Number: 7
+Case ID: AAHQ
+Age: 37
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN2.
+Management: LLETZ (type 1 excision).
+Swede Score: 8
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AAHQ&FinalDiag=31
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AAHQ0.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AAHQ1a.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AAHQ2a.jpg
+  4. After Lugols iodine: https://screening.iarc.fr/pic/AAHQ3a.jpg

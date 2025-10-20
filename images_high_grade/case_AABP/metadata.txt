@@ -1,0 +1,16 @@
+Case Number: 11
+Case ID: AABP
+Age: 42
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN3.
+Management: LLETZ (type 1 excision).
+Swede Score: Not possible (Iodine uptake missing)
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABP&FinalDiag=31
+
+Images:
+  1. Speculum examination: https://screening.iarc.fr/pic/AABP0a.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AABP2a.jpg
+  3. After acetic acid with green filter: https://screening.iarc.fr/pic/AABP9a.jpg
+  4. After acetic acid: https://screening.iarc.fr/pic/AABP5a.jpg
+  5. After acetic acid with higher magnification: https://screening.iarc.fr/pic/AABP8a.jpg

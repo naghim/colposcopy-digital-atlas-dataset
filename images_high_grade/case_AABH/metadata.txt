@@ -1,0 +1,15 @@
+Case Number: 1
+Case ID: AABH
+Age: 38
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN2.
+Management: Multiple punch biopsies from the anterior and posterior lips followed by LLETZ (type 1 excision).
+Swede Score: Not possible (Iodine uptake missing)
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABH&FinalDiag=31
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AABH0a.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AABH2a.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AABH4a.jpg
+  4. After acetic acid: https://screening.iarc.fr/pic/AABH7a.jpg

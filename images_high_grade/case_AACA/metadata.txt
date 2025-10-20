@@ -1,0 +1,15 @@
+Case Number: 8
+Case ID: AACA
+Age: 32
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN2.
+Management: Cryotherapy or thermal ablation after taking punch biopsy from the lesion.
+Swede Score: 7
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AACA&FinalDiag=31
+
+Images:
+  1. After acetic acid: https://screening.iarc.fr/pic/AACA1a.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AACA2a.jpg
+  3. After acetic acid with green filter: https://screening.iarc.fr/pic/AACA5a.jpg
+  4. After Lugols iodine: https://screening.iarc.fr/pic/AACA8a.jpg

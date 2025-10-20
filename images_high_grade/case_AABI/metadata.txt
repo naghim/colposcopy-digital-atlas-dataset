@@ -1,0 +1,16 @@
+Case Number: 2
+Case ID: AABI
+Age: 34
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN2.
+Management: LLETZ (type 1 excision).
+Swede Score: 8
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABI&FinalDiag=31
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AABI0.jpg
+  2. After normal saline with green filter: https://screening.iarc.fr/pic/AABI2a.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AABI3a.jpg
+  4. After acetic acid with green filter: https://screening.iarc.fr/pic/AABI4a.jpg
+  5. After Lugols iodine: https://screening.iarc.fr/pic/AABI5a.jpg

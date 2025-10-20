@@ -1,0 +1,16 @@
+Case Number: 45
+Case ID: AACV
+Age: 50
+HPV Status: Positive
+Provisional Diagnosis: High-grade squamous intraepithelial lesion (HSIL) on a cervical polyp.
+Histopathology Diagnosis: HSIL-CIN3.
+Management: Removal of mucous polyp followed by LLETZ (type will depend on the visibility of the SCJ after removal of polyp).
+Swede Score: Not possible (Iodine uptake missing)
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AACV&FinalDiag=31
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AACV01a.jpg
+  2. After normal saline with green filter: https://screening.iarc.fr/pic/AACV02.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AACV03a.jpg
+  4. After acetic acid: https://screening.iarc.fr/pic/AACV06a.jpg
+  5. After acetic acid with green filter: https://screening.iarc.fr/pic/AACV09a.jpg

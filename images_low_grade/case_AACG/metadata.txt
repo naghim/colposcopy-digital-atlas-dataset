@@ -1,0 +1,14 @@
+Case Number: 14
+Case ID: AACG
+Age: 34
+HPV Status: Positive
+Provisional Diagnosis: Type 2 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: LSIL-CIN1.
+Management: Punch biopsy from 1 oclock position or LLETZ directly.
+Swede Score: 7
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AACG&FinalDiag=06
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AACG0.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AACG1a.jpg
+  3. After Lugols iodine: https://screening.iarc.fr/pic/AACG2.jpg

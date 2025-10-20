@@ -1,0 +1,15 @@
+Case Number: 8
+Case ID: AAJB
+Age: 32
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; low-grade squamous intraepithelial lesion (LSIL).
+Histopathology Diagnosis: LSIL-CIN1.
+Management: Punch biopsy from 6 oclock position.
+Swede Score: 3
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AAJB&FinalDiag=06
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AAJB0.jpg
+  2. After normal saline with green filter: https://screening.iarc.fr/pic/AAJB1.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AAJB2a.jpg
+  4. After Lugols iodine: https://screening.iarc.fr/pic/AAJB3.jpg

@@ -1,0 +1,16 @@
+Case Number: 37
+Case ID: AACN
+Age: 38
+HPV Status: Positive
+Provisional Diagnosis: Type 3 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN3.
+Management: LLETZ (type 3 excision).
+Swede Score: 8
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AACN&FinalDiag=31
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AACN0.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AACN2a.jpg
+  3. After acetic acid with higher magnification: https://screening.iarc.fr/pic/AACN3a.jpg
+  4. Visualization of the SCJ: https://screening.iarc.fr/pic/AACN4a.jpg
+  5. After Lugols iodine: https://screening.iarc.fr/pic/AACN5a.jpg

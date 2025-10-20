@@ -1,0 +1,15 @@
+Case Number: 2
+Case ID: AABC
+Age: 37
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; low-grade squamous intraepithelial lesion (LSIL).
+Histopathology Diagnosis: LSIL-CIN1.
+Management: Punch biopsy from 1 oclock position.
+Swede Score: 4
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABC&FinalDiag=06
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AABC0.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AABC1a.jpg
+  3. After acetic acid with green filter: https://screening.iarc.fr/pic/AABC3a.jpg
+  4. After Lugols iodine: https://screening.iarc.fr/pic/AABC4.jpg

@@ -1,0 +1,16 @@
+Case Number: 4
+Case ID: AABL
+Age: 44
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN2.
+Management: LLETZ (type 1 excision).
+Swede Score: 10
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABL&FinalDiag=31
+
+Images:
+  1. After acetic acid: https://screening.iarc.fr/pic/AABL0a.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AABL1a.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AABL2.jpg
+  4. After acetic acid with green filter: https://screening.iarc.fr/pic/AABL3a.jpg
+  5. After Lugols iodine: https://screening.iarc.fr/pic/AABL4.jpg

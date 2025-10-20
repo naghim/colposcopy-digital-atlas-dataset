@@ -1,0 +1,16 @@
+Case Number: 34
+Case ID: AABQ
+Age: 49
+HPV Status: Positive
+Provisional Diagnosis: Type 3 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN3.
+Management: LLETZ (type 3 excision).
+Swede Score: Not possible (Iodine uptake missing)
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABQ&FinalDiag=31
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AABQ2a.jpg
+  2. After normal saline with green filter: https://screening.iarc.fr/pic/AABQ1a.jpg
+  3. After normal saline: https://screening.iarc.fr/pic/AABQ3a.jpg
+  4. After acetic acid with higher magnification: https://screening.iarc.fr/pic/AABQ7a.jpg
+  5. After acetic acid with green filter: https://screening.iarc.fr/pic/AABQ6a.jpg

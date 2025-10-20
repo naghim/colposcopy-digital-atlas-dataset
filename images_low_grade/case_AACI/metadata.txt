@@ -1,0 +1,16 @@
+Case Number: 4
+Case ID: AACI
+Age: 36
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; low-grade squamous intraepithelial lesion (LSIL).
+Histopathology Diagnosis: LSIL-CIN1.
+Management: Punch biopsy from 1 oclock position.
+Swede Score: 5
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AACI&FinalDiag=06
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AACI0.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AACI1a.jpg
+  3. After acetic acid with higher magnification: https://screening.iarc.fr/pic/AACI3a.jpg
+  4. After acetic acid with higher magnification: https://screening.iarc.fr/pic/AACI4a.jpg
+  5. After Lugols iodine: https://screening.iarc.fr/pic/AACI5.jpg

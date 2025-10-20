@@ -1,0 +1,19 @@
+Case Number: 14
+Case ID: AABX
+Age: 34
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; high-grade squamous intraepithelial lesion (HSIL) in pregnancy.
+Histopathology Diagnosis: HSIL-CIN3.
+Management: Multiple punch biopsies obtained from the posterior lip and also from the extension of the lesion to the vaginal wall.
+Swede Score: 9
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABX&FinalDiag=31
+
+Images:
+  1. Speculum examination: https://screening.iarc.fr/pic/AABX00.jpg
+  2. After normal saline: https://screening.iarc.fr/pic/AABX03.jpg
+  3. After normal saline with green filter: https://screening.iarc.fr/pic/AABX04.jpg
+  4. After acetic acid: https://screening.iarc.fr/pic/AABX08a.jpg
+  5. After acetic acid: https://screening.iarc.fr/pic/AABX15a.jpg
+  6. After acetic acid with higher magnification: https://screening.iarc.fr/pic/AABX17a.jpg
+  7. After acetic acid: https://screening.iarc.fr/pic/AABX19a.jpg
+  8. After Lugols iodine: https://screening.iarc.fr/pic/AABX22a.jpg

@@ -1,0 +1,15 @@
+Case Number: 29
+Case ID: AAAN
+Age: 52
+HPV Status: Positive
+Provisional Diagnosis: Type 3 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: HSIL-CIN2.
+Management: LLETZ (type 3 excision).
+Swede Score: Not possible (Iodine uptake missing)
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AAAN&FinalDiag=31
+
+Images:
+  1. Speculum examination: https://screening.iarc.fr/pic/AAAN0.jpg
+  2. After normal saline: https://screening.iarc.fr/pic/AAAN2.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AAAN3a.jpg
+  4. Examination with endocervical speculum: https://screening.iarc.fr/pic/AAAN6.jpg

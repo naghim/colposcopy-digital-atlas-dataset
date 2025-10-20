@@ -1,0 +1,15 @@
+Case Number: 17
+Case ID: AAGY
+Age: 55
+HPV Status: Positive
+Provisional Diagnosis: Type 3 transformation zone; low-grade squamous intraepithelial lesion (LSIL).
+Histopathology Diagnosis: LSIL-CIN1.
+Management: Punch biopsy.
+Swede Score: 6
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AAGY&FinalDiag=06
+
+Images:
+  1. After normal saline with green filter: https://screening.iarc.fr/pic/AAGY1a.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AAGY4.jpg
+  3. Visualization of the SCJ: https://screening.iarc.fr/pic/AAGY2.jpg
+  4. After Lugols iodine: https://screening.iarc.fr/pic/AAGY5.jpg

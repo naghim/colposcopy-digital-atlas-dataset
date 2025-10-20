@@ -1,0 +1,15 @@
+Case Number: 11
+Case ID: AABA
+Age: 36
+HPV Status: Positive
+Provisional Diagnosis: Type 1 transformation zone; low-grade squamous intraepithelial lesion (LSIL) with SPI.
+Histopathology Diagnosis: LSIL-CIN1.
+Management: Punch biopsy should be directed from the lesion at the 8 oclock position, because that is most dense and is adjacent to the erosion.
+Swede Score: 5
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AABA&FinalDiag=06
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AABA0.jpg
+  2. After acetic acid: https://screening.iarc.fr/pic/AABA2a.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AABA1a.jpg
+  4. After Lugols iodine: https://screening.iarc.fr/pic/AABA3.jpg

@@ -1,0 +1,15 @@
+Case Number: 44
+Case ID: AAEV
+Age: 56
+HPV Status: Positive
+Provisional Diagnosis: Type 3 transformation zone; leukoplakia.
+Histopathology Diagnosis: HSIL-CIN3.
+Management: Multiple punch biopsies.
+Swede Score: Not possible (Iodine uptake missing)
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AAEV&FinalDiag=31
+
+Images:
+  1. Speculum examination: https://screening.iarc.fr/pic/AAEV0.jpg
+  2. After normal saline: https://screening.iarc.fr/pic/AAEV1a.jpg
+  3. After acetic acid: https://screening.iarc.fr/pic/AAEV2a.jpg
+  4. After acetic acid: https://screening.iarc.fr/pic/AAEV3a.jpg

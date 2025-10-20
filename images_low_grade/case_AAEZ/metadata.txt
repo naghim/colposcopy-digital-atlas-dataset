@@ -1,0 +1,17 @@
+Case Number: 13
+Case ID: AAEZ
+Age: 36
+HPV Status: Positive
+Provisional Diagnosis: Type 3 transformation zone; high-grade squamous intraepithelial lesion (HSIL).
+Histopathology Diagnosis: LSIL-CIN1.
+Management: Punch biopsy from 12 oclock position or LLETZ directly.
+Swede Score: 9
+Detail Link: https://screening.iarc.fr/atlascolpodiag_detail.php?Id=AAEZ&FinalDiag=06
+
+Images:
+  1. After normal saline: https://screening.iarc.fr/pic/AAEZ0.jpg
+  2. After normal saline with higher magnification: https://screening.iarc.fr/pic/AAEZ1a.jpg
+  3. After normal saline with green filter: https://screening.iarc.fr/pic/AAEZ2.jpg
+  4. After acetic acid: https://screening.iarc.fr/pic/AAEZ3a.jpg
+  5. After acetic acid: https://screening.iarc.fr/pic/AAEZ4.jpg
+  6. After Lugols iodine: https://screening.iarc.fr/pic/AAEZ5.jpg
